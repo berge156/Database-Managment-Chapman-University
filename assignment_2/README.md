@@ -2,6 +2,7 @@ Luke Berger
 Student ID: 2271685
 Class: Database Managment - 408:01
 Chapman University - Class of 2020
+Rene German
 
 Assignemnt: Create a python Database with students, and follow specific procedures.
 Collaborated with: Cole Gotelli
