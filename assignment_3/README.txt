@@ -9,7 +9,7 @@ In this assignment, we were given he task to generate random data, export it as 
 
 INSTURCTUIONS
 
-Open the Faker.py file on your computer, run the program, or use my already made FakerData.csv file. If you change the file name, you will need to do so in the FileName constructor. Load the file into my java application (run the main file) and then you should have access to parsing the data.
+Open the Faker.py (must have faker downloaded as a driver) file on your computer, run the program, or use my already made FakerData.csv file. If you change the file name, you will need to do so in the FileName constructor. Load the file into my java application (run the main file) and then you should have access to parsing the data, and placing it into the database.
 
 LOGIN ACCESS:
 User: berge156
